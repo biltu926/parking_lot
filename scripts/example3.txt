@@ -1,0 +1,10 @@
+spots motorcycle/scooter 200
+spots cars/suvs/buses 500
+spots bus/trucks 100
+model airport
+action park motorcycle
+action park motorcycle
+action park motorcycle
+action park car
+action park suv
+action park car

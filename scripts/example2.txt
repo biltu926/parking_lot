@@ -1,0 +1,9 @@
+spots motorcycle/scooter 1000
+spots cars/suvs/buses 150
+model mall
+action park motorcycle
+action park motorcycle
+action park suv
+action park suv
+action park truck
+action unpark truck 5

@@ -1,0 +1,9 @@
+spots motorcycle/scooter 2
+spots cars/suvs 3
+model mall
+action park car
+action park scooter
+action park scooter
+action unpark car 1
+action park motorcycle
+action unpark scooter 1
